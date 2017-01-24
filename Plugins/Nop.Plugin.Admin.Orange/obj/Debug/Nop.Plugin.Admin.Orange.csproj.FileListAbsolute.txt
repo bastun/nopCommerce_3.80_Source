@@ -1,0 +1,13 @@
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Admin.Orange\Description.txt
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Admin.Orange\Views\AdminOrange\Configure.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Admin.Orange\Views\AdminOrange\Create.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Admin.Orange\Views\AdminOrange\Edit.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Admin.Orange\Views\AdminOrange\_CreateOrUpdate.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Admin.Orange\web.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Admin.Orange\logo.png
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Admin.Orange\Nop.Plugin.Admin.Orange.dll.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Admin.Orange\Nop.Plugin.Admin.Orange.dll
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Admin.Orange\Nop.Plugin.Admin.Orange.pdb
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Admin.Orange\obj\Debug\Nop.Plugin.Admin.Orange.csprojResolveAssemblyReference.cache
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Admin.Orange\obj\Debug\Nop.Plugin.Admin.Orange.dll
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Admin.Orange\obj\Debug\Nop.Plugin.Admin.Orange.pdb

@@ -1,0 +1,12 @@
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\Configure.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\PaymentInfo.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Release\Nop.Plugin.Payments.Manual.csproj.App.config
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Release\Nop.Plugin.Payments.Manual.dll
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Release\Nop.Plugin.Payments.Manual.pdb
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Release\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache

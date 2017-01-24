@@ -1,0 +1,11 @@
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Views\DiscountRulesHasAllProducts\Configure.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Description.txt
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\web.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Views\DiscountRulesHasAllProducts\ProductAddPopup.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\logo.jpg
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.dll.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.dll
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.pdb
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Release\Nop.Plugin.DiscountRules.HasAllProducts.csproj.App.config
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Release\Nop.Plugin.DiscountRules.HasAllProducts.dll
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Release\Nop.Plugin.DiscountRules.HasAllProducts.pdb

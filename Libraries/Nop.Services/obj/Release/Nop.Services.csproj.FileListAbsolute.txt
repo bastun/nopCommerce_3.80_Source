@@ -1,0 +1,9 @@
+C:\nopCommerce_3.80_Source\RELEASE\Nop.Services.dll.config
+C:\nopCommerce_3.80_Source\RELEASE\Nop.Services.dll
+C:\nopCommerce_3.80_Source\RELEASE\Nop.Services.XmlSerializers.dll
+C:\nopCommerce_3.80_Source\RELEASE\Nop.Services.pdb
+C:\nopCommerce_3.80_Source\Libraries\Nop.Services\obj\Release\Nop.Services.csproj.App.config
+C:\nopCommerce_3.80_Source\Libraries\Nop.Services\obj\Release\Nop.Services.csprojResolveAssemblyReference.cache
+C:\nopCommerce_3.80_Source\Libraries\Nop.Services\obj\Release\Nop.Services.dll
+C:\nopCommerce_3.80_Source\Libraries\Nop.Services\obj\Release\Nop.Services.pdb
+C:\nopCommerce_3.80_Source\Libraries\Nop.Services\obj\Release\Nop.Services.XmlSerializers.dll

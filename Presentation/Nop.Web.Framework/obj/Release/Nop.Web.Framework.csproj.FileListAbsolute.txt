@@ -1,0 +1,7 @@
+C:\nopCommerce_3.80_Source\RELEASE\Nop.Web.Framework.dll.config
+C:\nopCommerce_3.80_Source\RELEASE\Nop.Web.Framework.dll
+C:\nopCommerce_3.80_Source\RELEASE\Nop.Web.Framework.pdb
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.csproj.App.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.dll
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.pdb

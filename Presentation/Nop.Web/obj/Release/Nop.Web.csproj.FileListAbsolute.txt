@@ -1,0 +1,7 @@
+C:\nopCommerce_3.80_Source\RELEASE\Nop.Web.dll.config
+C:\nopCommerce_3.80_Source\RELEASE\Nop.Web.dll
+C:\nopCommerce_3.80_Source\RELEASE\Nop.Web.pdb
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\obj\Release\Nop.Web.csproj.App.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\obj\Release\Nop.Web.csprojResolveAssemblyReference.cache
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\obj\Release\Nop.Web.dll
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\obj\Release\Nop.Web.pdb

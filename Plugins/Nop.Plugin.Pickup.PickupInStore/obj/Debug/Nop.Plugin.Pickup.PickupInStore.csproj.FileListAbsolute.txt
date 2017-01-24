@@ -1,0 +1,13 @@
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Description.txt
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\Configure.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\Create.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\Edit.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\_CreateOrUpdate.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\web.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.csprojResolveAssemblyReference.cache
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.dll
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.pdb

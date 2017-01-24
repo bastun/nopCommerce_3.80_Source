@@ -1,0 +1,10 @@
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Views\DiscountRulesHadSpentAmount\Configure.cshtml
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Description.txt
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\web.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\logo.jpg
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll.config
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+C:\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Release\Nop.Plugin.DiscountRules.HadSpentAmount.csproj.App.config
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Release\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+C:\nopCommerce_3.80_Source\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Release\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
